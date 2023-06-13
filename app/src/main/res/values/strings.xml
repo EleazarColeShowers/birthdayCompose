@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthdaywithCompose</string>
+    <string name="happy_birthday_text">Happy Birthday El!</string>
+    <string name="signature_text">From Mercy</string>
+</resources>
